@@ -14,8 +14,12 @@
 }
 
 .lasagna-size {
-    height: 50px;
+    height: 400px;
     width: auto;
+}
+
+h2 {
+    color: tomato;
 }
 
 .center {
