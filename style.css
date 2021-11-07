@@ -7,10 +7,10 @@
 .text-font {
     font-family: Arial, Helvetica, sans-serif;
 }
+
 .main-picture {
     height: auto;
     width: auto;
-    ;
 }
 
 .center {
@@ -20,7 +20,7 @@
     width: 50%;
 }
 .recipe-list {
-    font-size: 20;
-    text-decoration: purple;
+    font-size: 30px;
     text-align: center;
+    list-style:none ;
 }
